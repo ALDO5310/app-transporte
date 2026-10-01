@@ -1,0 +1,1 @@
+document.addEventListener('DOMContentLoaded',()=>{const botonEstado=document.getElementById('btn-estado');botonEstado.addEventListener('click',()=>{alert('Todas las rutas se encuentran operando con normalidad.')})});
