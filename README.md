@@ -1,0 +1,1 @@
+Proyecto del portal de monitoreo de rutas. Los archivos CSS y JS fueron minificados y la imagen optimizada para reducir su peso. Posteriormente, la estructura final fue empaquetada en formato .zip preparándola para su despliegue en el servidor.
